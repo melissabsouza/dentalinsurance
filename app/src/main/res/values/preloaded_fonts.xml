@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/noto_sans_sc</item>
+        <item>@font/noto_sans_sc_black</item>
+        <item>@font/noto_sans_sc_light</item>
+    </array>
+</resources>
