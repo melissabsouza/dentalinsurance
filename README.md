@@ -149,4 +149,4 @@ O projeto **Dental Insurance** oferece uma solução moderna e robusta para a ge
 
   ## Teste de Funcionamento do APP
 
-  ![Teste](
+  ![Teste](app/sampledata/testeTela.gif)
